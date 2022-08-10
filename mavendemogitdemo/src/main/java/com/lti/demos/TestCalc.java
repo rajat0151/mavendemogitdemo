@@ -8,6 +8,6 @@ public class TestCalc {
 		Calculator c= new Calculator();
 		String msg =c.sayHello();
 		System.out.println(msg);
+		System.out.println("new line added");
 	}
-
 }
